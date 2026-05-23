@@ -1,0 +1,24 @@
+{
+    "createBooking": {
+        "firstname": "Muskan",
+        "lastname": "Sharma",
+        "totalprice": 500,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-01-01",
+            "checkout": "2026-01-05"
+        },
+        "additionalneeds": "Booking Created"
+    },
+    "updateBooking": {
+        "firstname": "Muskan",
+        "lastname": "Sharma",
+        "totalprice": 800,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2026-02-01",
+            "checkout": "2026-02-10"
+        },
+        "additionalneeds": "Booking Updated"
+    }
+}
