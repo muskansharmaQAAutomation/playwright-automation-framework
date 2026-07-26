@@ -31,7 +31,11 @@ This framework automates both Web UI and API testing using reusable components a
 
 ---
 
+<<<<<<< HEAD
 ## Framework Structur
+=======
+## Framework Structure
+>>>>>>> eea0e3aea6a163d9130ad7583cf7760f9a6dd3f0
 
 ```
 src
