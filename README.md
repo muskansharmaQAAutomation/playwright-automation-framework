@@ -31,12 +31,8 @@ This framework automates both Web UI and API testing using reusable components a
 
 ---
 
-<<<<<<< HEAD
-## Framework Structur
-=======
-## Framework Structure
->>>>>>> eea0e3aea6a163d9130ad7583cf7760f9a6dd3f0
 
+## Framework Structure
 ```
 src
 │
@@ -181,7 +177,7 @@ Example:
 WEB_URL=https://www.saucedemo.com
 API_URL=https://restful-booker.herokuapp.com
 USERNAME=standard_user
-PASSWORD=secert_sauce
+PASSWORD=your_password_here
 ```
 
 ---
